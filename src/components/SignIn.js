@@ -15,7 +15,7 @@ export default function SignIn() {
   // it does not contain anything
   // !! = false false = true = contains sth
   console.log(!!user) // returns false if user is not authenticated 
-                      // (i.e null as passed in AuthContext.js) [casting user to boolean]
+                      // (i.e null as passed into const [user, setUser] = useState(null) in context.js) [casting user to boolean]
   console.log(typeof(!!user)) //boolean
 
   //this is our config for FirebaseAuth
