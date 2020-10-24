@@ -1,4 +1,4 @@
-# ContextAPI-Hooks-GoogleAuth [Work in Progress...]
+# ContextAPI-Hooks-GoogleAuth
 
 ![demo](https://github.com/PiusLucky/ContextAPI-Hooks-GoogleAuth/blob/main/src/assets/unoptimized_final.gif?raw=true)
 
